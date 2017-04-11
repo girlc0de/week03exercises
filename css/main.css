@@ -1,0 +1,20 @@
+ul {
+	/*float: lef;*/
+	text-align: center;
+	background-color: black;
+	color: white;
+	/*margin: 0;
+	padding: 0;*/
+}
+
+li {
+	display: inline-block;
+	color: white;
+	font-family: courier;
+	padding: 10px;
+	margin: 5px;
+}
+
+a {
+	text-decoration: none;
+}
